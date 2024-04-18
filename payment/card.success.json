@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "card": {
+      "bin": "408408",
+      "last4": "4081",
+      "uuid": "302e99fe-ff48-4b08-9072-8317d39425fd",
+      "user_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+      "email": "teslim.abdulwahab@vroomng.com",
+      "authorization_code": "AUTH_he6n9z5sf8",
+      "exp_month": "12",
+      "exp_year": "2030",
+      "channel": "card",
+      "card_type": "visa ",
+      "bank": "TEST BANK",
+      "country_code": "NG",
+      "brand": "visa",
+      "reusable": true,
+      "signature": "SIG_TfonA5DCM5aO6prOkFCO",
+      "account_name": null,
+      "receiver_bank_account_number": null,
+      "receiver_bank": null,
+      "reference": "7r4z7pyfx7",
+      "updated_at": "2024-04-16T17:14:29.000000Z",
+      "created_at": "2024-04-16T17:14:29.000000Z"
+    },
+    "message": "Transaction validated successfully"
+  }
+}

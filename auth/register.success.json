@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+        "code": "phone",
+        "message": "Please verify you phone number"
+    }
+}

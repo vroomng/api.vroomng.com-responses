@@ -1,0 +1,7 @@
+{
+    "status": 403,
+    "success": false,
+    "data": {
+        "message": "Vehicle not assigned"
+    }
+}

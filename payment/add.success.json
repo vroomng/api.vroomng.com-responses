@@ -1,0 +1,10 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "url": "https://checkout.paystack.com/88y4k3i1smylth4",
+        "access_code": "88y4k3i1smylth4",
+        "reference": "7r4z7pyfx7",
+        "message": "Authorization URL created"
+    }
+}

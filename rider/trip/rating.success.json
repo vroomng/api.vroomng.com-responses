@@ -1,0 +1,42 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "trip": {
+            "uuid": "e8ad6146-1b99-42ec-b096-3dd3c01ee611",
+            "user_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+            "driver_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+            "vehicle_uuid": "4b4b3d01-0285-48d4-a103-70e4107a250a",
+            "vehicle_type": "1",
+            "security_code": "64228",
+            "from_address": "4 Walter Carrington Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
+            "from_lat": "6.4399847928718",
+            "from_long": "3.4081076404957",
+            "to_address": "11 Military St, Lagos Island, Lagos 102273, Lagos, Nigeria",
+            "to_lat": "6.4445346196193",
+            "to_long": "3.4036649234492",
+            "stop_address": null,
+            "stop_lat": "0",
+            "stop_long": "0",
+            "distance": "1.45",
+            "eta_travel_time": "5 mins",
+            "trip_accept_time": "2024-04-16T17:03:40.564445Z",
+            "travel_time": "0",
+            "travel_time_full": null,
+            "no_of_members": "1",
+            "trip_amount": "1300",
+            "tips": "200",
+            "payment_type": "cash",
+            "trip_type": "1",
+            "is_round_trip": "0",
+            "isSchedule": "0",
+            "trip_status": 1,
+            "ratings": "5",
+            "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+            "trip_fare_data": [],
+            "created_at": "2024-04-16T17:00:30.000000Z",
+            "updated_at": "2024-04-16T17:03:40.000000Z"
+        },
+        "message": "success"
+    }
+}

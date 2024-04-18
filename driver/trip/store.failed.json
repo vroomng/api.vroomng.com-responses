@@ -1,0 +1,78 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "from_lat": {
+            "code": "from_lat",
+            "message": "The from lat field is required."
+        },
+        "from_long": {
+            "code": "from_long",
+            "message": "The from long field is required."
+        },
+        "to_lat": {
+            "code": "to_lat",
+            "message": "The to lat field is required."
+        },
+        "to_long": {
+            "code": "to_long",
+            "message": "The to long field is required."
+        },
+        "from_title": {
+            "code": "from_title",
+            "message": "The from title field is required."
+        },
+        "to_title": {
+            "code": "to_title",
+            "message": "The to title field is required."
+        },
+        "from_address": {
+            "code": "from_address",
+            "message": "The from address field is required."
+        },
+        "to_address": {
+            "code": "to_address",
+            "message": "The to address field is required."
+        },
+        "distance": {
+            "code": "distance",
+            "message": "The distance field is required."
+        },
+        "trip_amount": {
+            "code": "trip_amount",
+            "message": "The trip amount field is required."
+        },
+        "travel_time": {
+            "code": "travel_time",
+            "message": "The travel time field is required."
+        },
+        "payment_type": {
+            "code": "payment_type",
+            "message": "The payment type field is required."
+        },
+        "trip_type": {
+            "code": "trip_type",
+            "message": "The trip type field is required."
+        },
+        "is_round_trip": {
+            "code": "is_round_trip",
+            "message": "The is round trip field is required."
+        },
+        "isSchedule": {
+            "code": "isSchedule",
+            "message": "The is schedule field is required."
+        },
+        "travel_time_full": {
+            "code": "travel_time_full",
+            "message": "The travel time full field is required."
+        },
+        "no_of_members": {
+            "code": "no_of_members",
+            "message": "The no of members field is required."
+        },
+        "vehicle_type": {
+            "code": "vehicle_type",
+            "message": "The vehicle type field is required."
+        }
+    }
+}

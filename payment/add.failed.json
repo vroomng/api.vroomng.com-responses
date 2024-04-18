@@ -1,0 +1,9 @@
+{
+    "status": 401,
+    "success": false,
+    "data": {
+        "message": "cURL request failed",
+        "message": "Failed to decode JSON response"
+
+    }
+}

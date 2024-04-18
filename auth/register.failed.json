@@ -1,0 +1,18 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "email": {
+            "code": "email",
+            "message": "The email has already been taken."
+        },
+        "password": {
+            "code": "password",
+            "message": "The password field confirmation does not match."
+        },
+        "device_token": {
+            "code": "device_token",
+            "message": "The device token field is required."
+        }
+    }
+}

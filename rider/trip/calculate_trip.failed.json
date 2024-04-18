@@ -1,0 +1,55 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "origin": "4 Walter Carrington Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
+        "destination": "11 Military St, Lagos Island, Lagos 102273, Lagos, Nigeria",
+        "vehicle": [
+            {
+                "vehicle_type": "60fc6ba7-fdbb-42e2-bff3-19a2ba779678",
+                "driver_available": 0,
+                "distance": {
+                    "unit": "km",
+                    "value": 1.45
+                },
+                "duration_in_traffic": {
+                    "seconds": {
+                        "value": 273
+                    },
+                    "minutes": {
+                        "value": 4.55
+                    }
+                },
+                "base_fare": "650",
+                "price": 988,
+                "surge": 100,
+                "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+                "tax": 200,
+                "total_price": 1288
+            },
+            {
+                "vehicle_type": "45cebfaa-2d58-4903-aa20-601942184b1d",
+                "driver_available": 0,
+                "distance": {
+                    "unit": "km",
+                    "value": 1.45
+                },
+                "duration_in_traffic": {
+                    "seconds": {
+                        "value": 273
+                    },
+                    "minutes": {
+                        "value": 4.55
+                    }
+                },
+                "base_fare": "500",
+                "price": 770.5,
+                "surge": 100,
+                "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+                "tax": 200,
+                "total_price": 1070.5
+            }
+        ],
+        "message": "success"
+    }
+}
