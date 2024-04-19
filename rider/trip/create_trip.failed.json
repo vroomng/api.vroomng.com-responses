@@ -1,0 +1,75 @@
+[
+    {
+        "status": 422,
+        "success": false,
+        "data": {
+            "vehicle_type": {
+                "code": "vehicle_type",
+                "message": "The vehicle type field is required."
+            },
+            "from_address": {
+                "code": "from_address",
+                "message": "The from address field is required."
+            },
+            "from_lat": {
+                "code": "from_lat",
+                "message": "The from lat field is required."
+            },
+            "from_long": {
+                "code": "from_long",
+                "message": "The from long field is required."
+            },
+            "to_address": {
+                "code": "to_address",
+                "message": "The to address field is required."
+            },
+            "to_lat": {
+                "code": "to_lat",
+                "message": "The to lat field is required."
+            },
+            "to_long": {
+                "code": "to_long",
+                "message": "The to long field is required."
+            },
+            "distance": {
+                "code": "distance",
+                "message": "The distance field is required."
+            },
+            "eta_travel_time": {
+                "code": "eta_travel_time",
+                "message": "The eta travel time field is required."
+            },
+            "no_of_members": {
+                "code": "no_of_members",
+                "message": "The no of members field is required."
+            },
+            "trip_amount": {
+                "code": "trip_amount",
+                "message": "The trip amount field is required."
+            },
+            "payment_type": {
+                "code": "payment_type",
+                "message": "The payment type field is required."
+            },
+            "trip_type": {
+                "code": "trip_type",
+                "message": "The trip type field is required."
+            },
+            "is_round_trip": {
+                "code": "is_round_trip",
+                "message": "The is round trip field is required."
+            },
+            "isSchedule": {
+                "code": "isSchedule",
+                "message": "The is schedule field is required."
+            }
+        }
+    },
+    {
+        "status": 404,
+        "success": false,
+        "data": {
+            "message": "Not found!"
+        }
+    }
+]

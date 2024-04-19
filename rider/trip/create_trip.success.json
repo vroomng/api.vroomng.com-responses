@@ -1,0 +1,9 @@
+[
+    {
+        "status": 200,
+        "success": false,
+        "data": {
+            "message": "Please complete or cancel previous trip"
+        }
+    }
+]
