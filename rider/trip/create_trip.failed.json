@@ -3,9 +3,9 @@
         "status": 422,
         "success": false,
         "data": {
-            "vehicle_type": {
-                "code": "vehicle_type",
-                "message": "The vehicle type field is required."
+            "vehicle_type_uuid": {
+                "code": "vehicle_type_uuid",
+                "message": "The vehicle type uuid field is required."
             },
             "from_address": {
                 "code": "from_address",

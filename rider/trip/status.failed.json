@@ -1,7 +1,16 @@
-{
+[
+    {
     "status": 404,
     "success": false,
     "data": {
         "message": "Trip not found!"
     }
+},
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "Not found!"
+    }
 }
+]

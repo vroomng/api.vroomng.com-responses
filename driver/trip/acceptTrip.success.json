@@ -1,0 +1,42 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "trip": {
+            "uuid": "95db819f-8d05-43bb-8da4-c96db5f3d5ae",
+            "user_uuid": "55",
+            "driver_uuid": 590,
+            "vehicle_uuid": "9c1fe5f3-5730-4bda-8c84-df83d623eb9e",
+            "vehicle_type": "60fc6ba7-fdbb-42e2-bff3-19a2ba779678",
+            "security_code": "45964",
+            "from_address": "7 Unity Cres, Akesan Igando, Lagos 101245, Lagos, Nigeria",
+            "from_lat": "6.5243793",
+            "from_long": "3.3792057",
+            "to_address": "Victoria Arobieke St, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+            "to_lat": "6.4478093",
+            "to_long": "3.4723495",
+            "stop_address": null,
+            "stop_lat": "0",
+            "stop_long": "0",
+            "distance": "20.674",
+            "eta_travel_time": "33 mins",
+            "trip_accept_time": "2024-04-22T10:31:22.837543Z",
+            "travel_time": "0",
+            "travel_time_full": null,
+            "no_of_members": "1",
+            "trip_amount": "20,300",
+            "tips": "200",
+            "payment_type": "card",
+            "trip_type": "1",
+            "is_round_trip": "0",
+            "isSchedule": "0",
+            "trip_status": 1,
+            "ratings": "0",
+            "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+            "trip_fare_data": [],
+            "created_at": "2024-04-22T09:49:09.000000Z",
+            "updated_at": "2024-04-22T10:31:22.000000Z"
+        },
+        "message": "success"
+    }
+}

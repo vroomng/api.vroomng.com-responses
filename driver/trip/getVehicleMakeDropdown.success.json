@@ -1,0 +1,321 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "vehicle_make": [
+            {
+                "id": 1,
+                "uuid": "87a4d639-0aae-4ba2-bcab-4e2a2736e8e2",
+                "title": "Acura",
+                "description": "Acura",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 2,
+                "uuid": "340b747c-e5ef-4641-a973-3e592cffacec",
+                "title": "Alfa Romeo",
+                "description": "Alfa Romeo",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 3,
+                "uuid": "62d85d19-7ff3-4ecb-aaaa-0cb6cbdf7187",
+                "title": "Aston Martin",
+                "description": "Aston Martin",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 4,
+                "uuid": "0c27e13b-3bdd-47cb-9bed-a4f90413b576",
+                "title": "Audi",
+                "description": "Audi",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 5,
+                "uuid": "11ae1130-1cc2-4e5e-a3bb-2ef59a0795f1",
+                "title": "Bentley",
+                "description": "Bentley",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 6,
+                "uuid": "7805a63f-03df-4519-8f2a-0691c9a17cc1",
+                "title": "BMW",
+                "description": "BMW",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 7,
+                "uuid": "98a68977-8f3b-4a18-a9c0-14c2d0507905",
+                "title": "Buick",
+                "description": "Buick",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 8,
+                "uuid": "f9ba5bb2-73b9-45ae-9e8b-c920f5ab2b63",
+                "title": "Cadillac",
+                "description": "Cadillac",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 9,
+                "uuid": "5d3d05df-acc3-4fe3-ab63-7c36362f798e",
+                "title": "Chevrolet",
+                "description": "Chevrolet",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 10,
+                "uuid": "e98db336-ae5d-4e53-b65d-abf238a3455d",
+                "title": "Chrysler",
+                "description": "Chrysler",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 11,
+                "uuid": "0d1abc04-f4ef-4d98-8853-51899070da57",
+                "title": "Dodge",
+                "description": "Dodge",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 12,
+                "uuid": "1d283d8b-9ab2-442f-9c74-04759a94488e",
+                "title": "Ferrari",
+                "description": "Ferrari",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 13,
+                "uuid": "a0135f85-6f09-49e6-9b51-b1d5538ad863",
+                "title": "Fiat",
+                "description": "Fiat",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 14,
+                "uuid": "98970114-e1c3-41ac-9491-e3335eef22c0",
+                "title": "Ford",
+                "description": "Ford",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 15,
+                "uuid": "d30db749-ef0f-4c37-983e-8bbc8d654119",
+                "title": "GMC",
+                "description": "GMC",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 16,
+                "uuid": "a040bcc4-e9ff-448e-bff1-c5ab6926ae39",
+                "title": "Honda",
+                "description": "Honda",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 17,
+                "uuid": "4413be2b-d945-4b1d-90da-f8dc59e635d1",
+                "title": "Hyundai",
+                "description": "Hyundai",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 18,
+                "uuid": "a63cc0fe-7a2e-4505-8725-a987b4872010",
+                "title": "Infiniti",
+                "description": "Infiniti",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 19,
+                "uuid": "3245fc35-187a-4513-ba6f-65d4539e09d6",
+                "title": "Jaguar",
+                "description": "Jaguar",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 20,
+                "uuid": "2ebd7f1b-d4d3-4bd4-a525-f2299abddd17",
+                "title": "Kia",
+                "description": "Kia",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 21,
+                "uuid": "953f17ff-c106-4b53-b989-01f5342480e5",
+                "title": "Lamborghini",
+                "description": "Lamborghini",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 22,
+                "uuid": "3cbfee65-6165-4334-966b-bc86cff63541",
+                "title": "Land Rover",
+                "description": "Land Rover",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 23,
+                "uuid": "ebf86e1b-54f8-46ce-a3e1-801569483da5",
+                "title": "Lexus",
+                "description": "Lexus",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 24,
+                "uuid": "f0f9b724-5375-415d-9885-6e7b4ab0aa0e",
+                "title": "Lincoln",
+                "description": "Lincoln",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 25,
+                "uuid": "91c09177-8061-4b5e-b01b-2048c87b6770",
+                "title": "Maserati",
+                "description": "Maserati",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 26,
+                "uuid": "f9271720-00fd-44e6-b9f0-a564136b49eb",
+                "title": "Mazda",
+                "description": "Mazda",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 27,
+                "uuid": "2b03b4f0-8d9e-429f-a717-89140b94d0d0",
+                "title": "McLaren",
+                "description": "McLaren",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 28,
+                "uuid": "20f6ff67-009b-4bdc-b469-d5f0631316f6",
+                "title": "Mercedes Benz",
+                "description": "Mercedes Benz",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 29,
+                "uuid": "dde23ad7-7c8e-498f-96d9-d8f583ad48fe",
+                "title": "Mini",
+                "description": "Mini",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 30,
+                "uuid": "9c02be63-dead-4186-b011-bfd5505af865",
+                "title": "Mitsubishi",
+                "description": "Mitsubishi",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 31,
+                "uuid": "73ab4b3d-73b9-4e97-99e9-59ecf91c660c",
+                "title": "Nissan",
+                "description": "Nissan",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 32,
+                "uuid": "ef2c9b6c-acfb-4087-9bc3-8164215b2e65",
+                "title": "Porsche",
+                "description": "Porsche",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 33,
+                "uuid": "ddb7e548-026b-495d-96e4-08e8ab960b20",
+                "title": "Ram",
+                "description": "Ram",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 34,
+                "uuid": "f1943def-31ed-47b1-be33-f7bebc288237",
+                "title": "Rolls Royce",
+                "description": "Rolls Royce",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 35,
+                "uuid": "9947e68b-14e8-4472-9887-ce49ed7069e4",
+                "title": "Scion",
+                "description": "Scion",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 36,
+                "uuid": "d2db6307-e934-4ce1-b06b-b4ce630f618f",
+                "title": "Subaru",
+                "description": "Subaru",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 37,
+                "uuid": "0fdab5f7-aa1f-443b-b999-cc023a4a0d25",
+                "title": "Toyota",
+                "description": "Toyota",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 38,
+                "uuid": "a9b4c0a3-5bb5-47a1-9fc3-d180406275e9",
+                "title": "Volkswagen",
+                "description": "Volkswagen",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            },
+            {
+                "id": 39,
+                "uuid": "7edabe63-4f8c-42d1-9254-fa39b67a8891",
+                "title": "Volvo",
+                "description": "Volvo",
+                "created_at": "2024-04-15T21:25:32.000000Z",
+                "updated_at": "2024-04-15T21:25:32.000000Z"
+            }
+        ],
+        "message": "success"
+    }
+}

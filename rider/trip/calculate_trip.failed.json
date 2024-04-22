@@ -22,13 +22,6 @@
     }
 },
 {
-    "status": 401,
-    "success": false,
-    "data": {
-        "message": "Unauthenticated"
-    }
-},
-{
     "status": 404,
     "success": false,
     "data": {

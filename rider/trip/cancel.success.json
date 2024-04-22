@@ -1,7 +1,9 @@
-{
+[{
     "status": 200,
     "success": true,
     "data": {
         "message": "Trip canceled"
     }
+    
 }
+]

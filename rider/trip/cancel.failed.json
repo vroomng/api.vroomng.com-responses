@@ -1,7 +1,19 @@
-{
-    "status": 404,
-    "success": false,
-    "data": {
-        "message": "Trip not found!"
+[
+
+    {
+        "status": 404,
+        "success": false,
+        "data": {
+            "message": "Trip not found!"
+        }
+    },
+
+    {
+        "status": 419,
+        "success": false,
+        "data": {
+            "message": "This trip is already completed or canceled"
+        }
     }
-}
+
+]
