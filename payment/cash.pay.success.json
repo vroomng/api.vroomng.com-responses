@@ -1,4 +1,4 @@
-{
+[ {
     "status": 200,
     "success": true,
     "data": {
@@ -60,3 +60,5 @@
         "message": "Payment successful"
     }
 }
+
+]

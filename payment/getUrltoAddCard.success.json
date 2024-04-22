@@ -1,0 +1,10 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "url": "https://checkout.paystack.com/40btnhg5kw1751s",
+        "access_code": "40btnhg5kw1751s",
+        "reference": "y54mp06s0r",
+        "message": "Authorization URL created"
+    }
+}

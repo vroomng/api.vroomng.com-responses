@@ -1,0 +1,34 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "vehicle_type_uuid": {
+            "code": "vehicle_type_uuid",
+            "message": "The vehicle type uuid field is required."
+        },
+        "vehicle_make": {
+            "code": "vehicle_make",
+            "message": "The vehicle make field is required."
+        },
+        "vehicle_model": {
+            "code": "vehicle_model",
+            "message": "The vehicle model field is required."
+        },
+        "vehicle_year": {
+            "code": "vehicle_year",
+            "message": "The vehicle year field is required."
+        },
+        "vehicle_color": {
+            "code": "vehicle_color",
+            "message": "The vehicle color field is required."
+        },
+        "vehicle_image": {
+            "code": "vehicle_image",
+            "message": "The vehicle image field is required."
+        },
+        "available_seat": {
+            "code": "available_seat",
+            "message": "The available seat field is required."
+        }
+    }
+}

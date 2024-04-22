@@ -1,0 +1,31 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "card": {
+            "uuid": "f567d676-1fd7-491e-8e29-a6117e972851",
+            "user_uuid": "55",
+            "trip_uuid": null,
+            "email": "venaz@vroomng.com",
+            "authorization_code": "AUTH_nwdnya70lz",
+            "bin": "408408",
+            "last4": "4081",
+            "exp_month": "12",
+            "exp_year": "2030",
+            "channel": "card",
+            "card_type": "visa ",
+            "bank": "TEST BANK",
+            "country_code": "NG",
+            "brand": "visa",
+            "reusable": "1",
+            "signature": "SIG_TfonA5DCM5aO6prOkFCO",
+            "account_name": null,
+            "receiver_bank_account_number": null,
+            "receiver_bank": null,
+            "reference": "y54mp06s0r",
+            "created_at": "2024-04-16T17:14:29.000000Z",
+            "updated_at": "2024-04-22T11:53:15.000000Z"
+        },
+        "message": "Success"
+    }
+}
