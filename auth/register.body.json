@@ -1,0 +1,14 @@
+{
+    "email": "vroomng@vroomng.com",
+    "phone_no": "08000000000",
+    "password": "password",
+    "password_confirmation": "password",
+    "first_name": "John",
+    "last_name": "Doe",
+    "user_type": 1,
+    "device_id": "device_id",
+    "device_type": 1,
+    "device_token": "device_token-random",
+    "ref_code": "ref_code",
+    "ref_by": "Peter"
+}

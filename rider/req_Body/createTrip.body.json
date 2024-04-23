@@ -1,0 +1,20 @@
+{
+    "vehicle_type_uuid": "60fc6ba7-fdbb-42e2-bff3-19a2ba779678",
+    "from_address": "7 Unity Cres, Akesan Igando, Lagos 101245, Lagos, Nigeria",
+    "from_lat": 6.5243793,
+    "from_long": 3.3792057,
+    "to_address": "Victoria Arobieke St, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+    "to_lat": 6.447809299999999,
+    "to_long": 3.4723495,
+    "distance": 20.674,
+    "eta_travel_time": "33 mins",
+    "no_of_members": 1,
+    "trip_amount": 10973,
+    "tips": "200",
+    "payment_type": "cash",
+    "trip_type": "1",
+    "is_round_trip": "0",
+    "isSchedule": 0,
+    "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+    "trip_fare_data": []
+}
