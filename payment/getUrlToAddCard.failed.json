@@ -1,0 +1,7 @@
+{
+    "status": 401,
+    "success": false,
+    "data": {
+        "message": "URL request failed"
+    }
+}

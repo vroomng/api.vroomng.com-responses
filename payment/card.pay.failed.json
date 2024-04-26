@@ -1,12 +1,6 @@
-[{
-    "status": 200,
+{
+    "status": 404,
     "success": false,
-    "data": {
-        "message": "This trip is already paid or canceled"
-    }},
-    {
-        "status": 404,
-        "success": false,
         "data": {
             "message": "Card not found or cannot be charged",
             "trip": {
@@ -45,6 +39,5 @@
                 "updated_at": "2024-04-22T15:29:02.000000Z"
             }
         }
-    }
+}
     
-]

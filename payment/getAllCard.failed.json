@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "The route api/card/lis could not be found."
+    }
+}
