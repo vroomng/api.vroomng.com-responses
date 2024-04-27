@@ -1,5 +1,5 @@
 {
-    "status": 200,
+    "status": 419,
     "success": false,
     "data": {
         "message": "This trip is already paid or canceled"
