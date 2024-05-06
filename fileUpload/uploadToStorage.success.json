@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "success": true,
+    "message": "File uploaded",
+    "data": {
+        "base_url": "https://api.vroomng.com/uploads",
+        "path": "thumbnails/IjEG9T1JrY1DZZYt32qUTfIgcEhuSKesi8l3ehL.jpg"
+    }
+}

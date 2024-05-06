@@ -1,0 +1,11 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "message": "The upload field is required.",
+        "upload": {
+            "code": "upload",
+            "message": "The upload field is required."
+        }
+    }
+}

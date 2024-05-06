@@ -1,0 +1,31 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "message": "The first name field is required.",
+        "first_name": {
+            "code": "first_name",
+            "message": "The first name field is required."
+        },
+        "last_name": {
+            "code": "last_name",
+            "message": "The last name field is required."
+        },
+        "profile_url": {
+            "code": "profile_url",
+            "message": "The profile url field is required."
+        },
+        "address": {
+            "code": "address",
+            "message": "The address field is required."
+        },
+        "city": {
+            "code": "city",
+            "message": "The city field is required."
+        },
+        "country": {
+            "code": "country",
+            "message": "The country field is required."
+        }
+    }
+}
