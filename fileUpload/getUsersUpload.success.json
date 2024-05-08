@@ -2,6 +2,18 @@
     "status": 200,
     "success": true,
     "data": {
-        "files": []
+        "files": [
+            {
+                "id": 2,
+                "uuid": "9d9c5d2e-d287-4591-b499-57a5a6fa2abe",
+                "user_uuid": "f89063c7-6a49-47bd-ba3e-683cc7167101",
+                "upload": "thumbnails/9a5SdrF2PoNZIQ5V5hQsiJZCfoo17IhLFK2iObnv.jpg",
+                "type": "image",
+                "for": "profile",
+                "status": null,
+                "created_at": "2024-05-08T13:52:42.000000Z",
+                "updated_at": "2024-05-08T13:52:42.000000Z"
+            }
+        ]
     }
 }
