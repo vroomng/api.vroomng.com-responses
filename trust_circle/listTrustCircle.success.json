@@ -1,0 +1,45 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "circle": [
+            {
+                "uuid": "cb15f225-77ad-4821-970b-9456fbd93d49",
+                "user_uuid": "240a6417-921c-4629-82b8-a245c318d509",
+                "first_name": "John",
+                "last_name": "Doe",
+                "mobile": "+2348065433275",
+                "email": "john.doe@example.org",
+                "share": true,
+                "emergency": true,
+                "created_at": "2024-05-16T07:44:56.000000Z",
+                "updated_at": "2024-05-16T07:44:56.000000Z"
+            },
+            {
+                "uuid": "565af25c-ac13-4ff3-8857-f9693b796e30",
+                "user_uuid": "240a6417-921c-4629-82b8-a245c318d509",
+                "first_name": "Peter",
+                "last_name": "Raphel",
+                "mobile": "+2348065433270",
+                "email": "peter@example.org",
+                "share": true,
+                "emergency": false,
+                "created_at": "2024-05-16T07:44:56.000000Z",
+                "updated_at": "2024-05-16T07:44:56.000000Z"
+            },
+            {
+                "uuid": "a156142d-cac6-4e84-b785-2f17c4e12429",
+                "user_uuid": "240a6417-921c-4629-82b8-a245c318d509",
+                "first_name": "Mike",
+                "last_name": "Scot",
+                "mobile": "+2348065433278",
+                "email": "mcdermott.viva@example.org",
+                "share": false,
+                "emergency": true,
+                "created_at": "2024-05-16T07:44:56.000000Z",
+                "updated_at": "2024-05-16T07:44:56.000000Z"
+            }
+        ],
+        "message": "success"
+    }
+}

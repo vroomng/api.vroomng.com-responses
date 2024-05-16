@@ -1,0 +1,15 @@
+{
+    "status": 422,
+    "success": false,
+    "data": {
+        "message": "The first name field is required.",
+        "first_name": {
+            "code": "first_name",
+            "message": "The first name field is required."
+        },
+        "last_name": {
+            "code": "last_name",
+            "message": "The last name field is required."
+        }
+    }
+}

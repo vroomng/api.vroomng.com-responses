@@ -4,6 +4,7 @@
     "message": "File uploaded",
     "data": {
         "base_url": "https://api.vroomng.com/uploads",
-        "path": "thumbnails/IjEG9T1JrY1DZZYt32qUTfIgcEhuSKesi8l3ehL.jpg"
+        "path": "thumbnails/rvXJqFSsya4XvcxektJTRHMiVYFue7AwwCKYmgmW.png",
+        "full_path": "https://api.vroomng.com/uploads/thumbnails/rvXJqFSsya4XvcxektJTRHMiVYFue7AwwCKYmgmW.png"
     }
 }
