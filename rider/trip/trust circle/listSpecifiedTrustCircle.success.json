@@ -1,0 +1,19 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "contact": {
+            "uuid": "c2bf3f60-9933-45a7-b238-93bc3d862aed",
+            "user_uuid": "123df1d5-5382-4be0-9b0c-6fd1547a308c",
+            "first_name": "Parker",
+            "last_name": "Raphel",
+            "mobile": "+2348065433270",
+            "email": "peter@example.org",
+            "share": true,
+            "emergency": false,
+            "created_at": "2024-05-16T08:32:20.000000Z",
+            "updated_at": "2024-05-16T08:32:20.000000Z"
+        },
+        "message": "success"
+    }
+}
