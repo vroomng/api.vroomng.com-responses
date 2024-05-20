@@ -33,7 +33,15 @@
             "trip_status": 1,
             "ratings": "0",
             "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
-            "trip_fare_data": [],
+            "trip_fare_data": {
+                "fare": 1300,
+                "distance": 1.45,
+                "time": "5 mins",
+                "LASG_RDF_fee": "100",
+                "wait_time_charge": "150",
+                "discount": "200",
+                "total": 1300
+            },
             "created_at": "2024-04-16T17:00:30.000000Z",
             "updated_at": "2024-04-16T17:03:40.000000Z"
         },
