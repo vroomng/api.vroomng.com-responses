@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "No query results for model [App\\Models\\Quest] 00af8b06-5be2-3b45-8cc0-791220d40a7c"
+    }
+}
