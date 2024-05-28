@@ -1,0 +1,18 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "message": "success",
+        "documents": {
+            "id": 6,
+            "uuid": "7dcf5d68-278f-4028-b8cd-2b00fe725df5",
+            "driver_uuid": "cadca4c3-f0ad-4958-868f-f63fad8f426b",
+            "driver_license": null,
+            "insurance_document": null,
+            "vehicle_inspection_report": null,
+            "other_documents": null,
+            "created_at": "2024-05-26T08:59:56.000000Z",
+            "updated_at": "2024-05-26T08:59:56.000000Z"
+        }
+    }
+}
