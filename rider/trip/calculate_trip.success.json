@@ -2,12 +2,12 @@
     "status": 200,
     "success": true,
     "data": {
-        "origin": "7 Unity Cres, Akesan Igando, Lagos 101245, Lagos, Nigeria",
-        "destination": "Victoria Arobieke St, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+        "origin": "4 Walter Carrington Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
+        "destination": "11 Military St, Lagos Island, Lagos 102273, Lagos, Nigeria",
         "vehicle": [
             {
                 "vehicle_type": {
-                    "uuid": "60fc6ba7-fdbb-42e2-bff3-19a2ba779678",
+                    "uuid": "307cc2ff-d38b-4535-87d7-d9489e0a5c15",
                     "vehicle_type": "SUV",
                     "per_km_rate": "85",
                     "per_minute_rate": "15",
@@ -33,32 +33,32 @@
                     "base_fare_share": "1",
                     "promo_status": "0",
                     "max_fare_value": "2000",
-                    "created_at": "2024-04-15T21:25:43.000000Z",
-                    "updated_at": "2024-04-15T21:25:43.000000Z"
+                    "created_at": "2024-05-31T08:13:18.000000Z",
+                    "updated_at": "2024-05-31T08:13:18.000000Z"
                 },
-                "driver_available": 0,
+                "driver_available": 7,
                 "distance": {
                     "unit": "km",
-                    "value": 20.674
+                    "value": 1.45
                 },
                 "duration_in_traffic": {
                     "seconds": {
-                        "value": 2021
+                        "value": 270
                     },
                     "minutes": {
-                        "value": 33.68333333333333
+                        "value": 4.5
                     }
                 },
                 "base_fare": "650",
-                "price": 13774.933333333334,
+                "price": 987.5,
                 "surge": 100,
                 "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
                 "tax": 200,
-                "total_price": 14074.933333333334
+                "total_price": 1287.5
             },
             {
                 "vehicle_type": {
-                    "uuid": "45cebfaa-2d58-4903-aa20-601942184b1d",
+                    "uuid": "440cc6d8-6cf9-4468-a1f4-d9a7d714d301",
                     "vehicle_type": "Sedan",
                     "per_km_rate": "72",
                     "per_minute_rate": "28",
@@ -84,30 +84,31 @@
                     "base_fare_share": "200",
                     "promo_status": "0",
                     "max_fare_value": "2000",
-                    "created_at": "2024-04-15T21:25:43.000000Z",
-                    "updated_at": "2024-04-15T21:25:43.000000Z"
+                    "created_at": "2024-05-31T08:13:18.000000Z",
+                    "updated_at": "2024-05-31T08:13:18.000000Z"
                 },
                 "driver_available": 0,
                 "distance": {
                     "unit": "km",
-                    "value": 20.674
+                    "value": 1.45
                 },
                 "duration_in_traffic": {
                     "seconds": {
-                        "value": 2021
+                        "value": 270
                     },
                     "minutes": {
-                        "value": 33.68333333333333
+                        "value": 4.5
                     }
                 },
                 "base_fare": "500",
-                "price": 10673.833333333334,
+                "price": 770,
                 "surge": 100,
                 "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
                 "tax": 200,
-                "total_price": 10973.833333333334
+                "total_price": 1070
             }
         ],
+        "has_available_cards": false,
         "message": "success"
     }
 }

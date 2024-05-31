@@ -1,0 +1,59 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "origin": "6.4399847928718,3.4081076404957",
+        "current_location": "6.4425346196193,3.4056649234492",
+        "destination": "6.4445346196193,3.4036649234492",
+        "vehicle": {
+            "vehicle_type": {
+                "uuid": "307cc2ff-d38b-4535-87d7-d9489e0a5c15",
+                "vehicle_type": "SUV",
+                "per_km_rate": "85",
+                "per_minute_rate": "15",
+                "base_fare": "650",
+                "tolls_fees": "0",
+                "minimum_fare": "650",
+                "tax_percent": "20",
+                "commission": "0",
+                "cancel_charge_driver": "0",
+                "cancel_charge_rider": "0",
+                "available_seat": "4",
+                "description": "Sample description",
+                "is_active": "1",
+                "trip_type": "Daily",
+                "peek_hour_fare": "0",
+                "make": "Mahindra",
+                "model": "Scorpio",
+                "year": "2007",
+                "vehicle_image": null,
+                "per_km_rate_share": "6",
+                "per_minute_rate_share": "1",
+                "minimum_fare_share": "5",
+                "base_fare_share": "1",
+                "promo_status": "0",
+                "max_fare_value": "2000",
+                "created_at": "2024-05-31T08:13:18.000000Z",
+                "updated_at": "2024-05-31T08:13:18.000000Z"
+            },
+            "distance": {
+                "unit": "km",
+                "value": 4.57
+            },
+            "duration_in_traffic": {
+                "seconds": {
+                    "value": 786
+                },
+                "minutes": {
+                    "value": 13.1
+                }
+            },
+            "base_fare": "650",
+            "price": 3101.5,
+            "surge": 100,
+            "tax": 200,
+            "total_price": 3401.5
+        },
+        "message": "success"
+    }
+}

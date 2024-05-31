@@ -5,14 +5,14 @@
         "message": "success",
         "documents": {
             "id": 6,
-            "uuid": "7dcf5d68-278f-4028-b8cd-2b00fe725df5",
+            "uuid": "7de87310-a9ad-4f0e-97ec-fdba1734fe60",
             "driver_uuid": "cadca4c3-f0ad-4958-868f-f63fad8f426b",
-            "driver_license": null,
-            "insurance_document": null,
-            "vehicle_inspection_report": null,
-            "other_documents": null,
+            "driver_license": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.E",
+            "insurance_document": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.",
+            "vehicle_inspection_report": "https://www.google.com/url?sa=i&url=https%3",
+            "other_documents": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fw",
             "created_at": "2024-05-26T08:59:56.000000Z",
-            "updated_at": "2024-05-26T08:59:56.000000Z"
+            "updated_at": "2024-05-28T17:55:53.000000Z"
         }
     }
 }

@@ -30,13 +30,13 @@
                 "discount": "200",
                 "total": 1300
             },
-            "vehicle_type": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
-            "uuid": "f55bd845-45f6-4177-8c5f-1522eec24ebd",
-            "user_uuid": "123df1d5-5382-4be0-9b0c-6fd1547a308c",
+            "vehicle_type": "307cc2ff-d38b-4535-87d7-d9489e0a5c15",
+            "uuid": "cda0ce06-bf14-427a-ae52-dd93b2736760",
+            "user_uuid": "0183da34-45ac-4a37-b20e-f97afb7f1c95",
             "trip_status": 0,
-            "security_code": 54990,
-            "updated_at": "2024-05-20T16:01:18.000000Z",
-            "created_at": "2024-05-20T16:01:18.000000Z"
+            "security_code": 57243,
+            "updated_at": "2024-05-31T09:56:40.000000Z",
+            "created_at": "2024-05-31T09:56:40.000000Z"
         },
         "message": "success"
     }

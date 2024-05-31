@@ -1,0 +1,130 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "message": "success",
+        "history": {
+            "current_page": 1,
+            "data": [
+                {
+                    "uuid": "cda0ce06-bf14-427a-ae52-dd93b2736760",
+                    "user_uuid": "0183da34-45ac-4a37-b20e-f97afb7f1c95",
+                    "driver_uuid": "662381f9-0ede-457b-baff-48166d5395b0",
+                    "vehicle_uuid": "b11714d8-8855-4237-b15b-7d06afbca7b0",
+                    "vehicle_type": "307cc2ff-d38b-4535-87d7-d9489e0a5c15",
+                    "security_code": "57243",
+                    "from_title": "Victoria Island",
+                    "from_address": "4 Walter Carrington Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
+                    "from_lat": "6.4399847928718",
+                    "from_long": "3.4081076404957",
+                    "to_title": "Victoria Island",
+                    "to_address": "11 Military St, Lagos Island, Lagos 102273, Lagos, Nigeria",
+                    "to_lat": "6.4445346196193",
+                    "to_long": "3.4036649234492",
+                    "stop_title": null,
+                    "stop_address": "11 Military St, Lagos Island, Lagos 102273, Lagos, Nigeria",
+                    "stop_lat": "3.4036649234492",
+                    "stop_long": "3.4036649234492",
+                    "distance": "1.45",
+                    "eta_travel_time": "5 mins",
+                    "trip_accept_time": "2024-05-31 10:36:02",
+                    "travel_time": "0",
+                    "travel_time_full": null,
+                    "no_of_members": "1",
+                    "trip_amount": "3101.5",
+                    "tips": "200",
+                    "payment_type": "cash",
+                    "bank_transfer_url": null,
+                    "trip_type": "1",
+                    "is_round_trip": "0",
+                    "isSchedule": "0",
+                    "trip_status": "5",
+                    "rider_ratings": "5",
+                    "rider_comments": null,
+                    "driver_ratings": "5",
+                    "driver_comments": null,
+                    "rider_canceled_reason": null,
+                    "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
+                    "trip_fare_data": {
+                        "fare": 3101.5,
+                        "distance": 4.57,
+                        "time": 13.1,
+                        "LASG_RDF_fee": "100",
+                        "wait_time_charge": "150",
+                        "discount": "200",
+                        "total": 3101.5
+                    },
+                    "created_at": "2024-05-31T09:56:40.000000Z",
+                    "updated_at": "2024-05-31T10:36:06.000000Z",
+                    "status_message": "completed",
+                    "rider_data": {
+                        "rider": {
+                            "uuid": "0183da34-45ac-4a37-b20e-f97afb7f1c95",
+                            "email": "wisdom.rider@vroomng.com",
+                            "phone_no": "+2348100000006",
+                            "balance": "0",
+                            "country_code": "NG",
+                            "country_dialing_code": "+234",
+                            "user_type": "1",
+                            "device_id": "b6ce6c03c8fcd4c3",
+                            "device_type": "1",
+                            "device_token": "123456",
+                            "ref_by": "Vroomng",
+                            "ref_code": "VROOMNG",
+                            "is_active": "1",
+                            "isBlock": "0",
+                            "block_reason": null,
+                            "block_date": null,
+                            "OTP_code": null,
+                            "is_verified": "3",
+                            "email_verified_at": null,
+                            "uninstall_time": null,
+                            "created_at": "2024-05-31T08:13:22.000000Z",
+                            "updated_at": "2024-05-31T08:48:42.000000Z",
+                            "user_profile": {
+                                "user_uuid": "0183da34-45ac-4a37-b20e-f97afb7f1c95",
+                                "first_name": "Wisdom",
+                                "last_name": "Rider",
+                                "profile_url": "https://i.pinimg.com/736x/07/33/ba/0733ba760b29378474dea0fdbcb97107.jpg",
+                                "about_me": "I'm am Rider at Vroomng",
+                                "address": "NO: 01 Vroomng Lagos",
+                                "city": "Lagos",
+                                "country": "Nigeria",
+                                "postal_code": "10001",
+                                "created_at": "2024-05-31T08:13:22.000000Z",
+                                "updated_at": "2024-05-31T08:13:22.000000Z"
+                            }
+                        }
+                    }
+                }
+            ],
+            "first_page_url": "https://api.vroomng.com/api/driver/trip/history?page=1",
+            "from": 1,
+            "last_page": 1,
+            "last_page_url": "https://api.vroomng.com/api/driver/trip/history?page=1",
+            "links": [
+                {
+                    "url": null,
+                    "label": "&laquo; Previous",
+                    "active": false
+                },
+                {
+                    "url": "https://api.vroomng.com/api/driver/trip/history?page=1",
+                    "label": "1",
+                    "active": true
+                },
+                {
+                    "url": null,
+                    "label": "Next &raquo;",
+                    "active": false
+                }
+            ],
+            "next_page_url": null,
+            "path": "https://api.vroomng.com/api/driver/trip/history",
+            "per_page": 15,
+            "prev_page_url": null,
+            "to": 1,
+            "total": 1
+        }
+    }
+}

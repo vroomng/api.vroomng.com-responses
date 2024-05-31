@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "No query results for model [App\\Models\\SaveLocation] {\n    \"status\": 200,\n    \"success\": true,\n    \"data\": {\n        \"message\": \"success\",\n        \"location\": {\n            \"id\": 1,\n            \"uuid\": \"884527ec-37d7-4c60-9c9c-92869b224101\",\n            \"user_uuid\": \"0183da34-45ac-4a37-b20e-f97afb7f1c95\",\n            \"title\": \"my house\",\n            \"address\": \"no.9 royal paragon avenue\",\n            \"latitude\": \"4.8472\",\n            \"longitude\": \"6.9746\",\n            \"created_at\": \"2024-05-31T09:15:51.000000Z\",\n            \"updated_at\": \"2024-05-31T09:15:51.000000Z\"\n        }\n    }\n}"
+    }
+}

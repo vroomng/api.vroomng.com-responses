@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "No query results for model [App\\Models\\Trips] 2cb927f1-aa31-3bb8-8297-15cd3626b745"
+    }
+}

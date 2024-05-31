@@ -1,0 +1,18 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "message": "success",
+        "documents": {
+            "id": 6,
+            "uuid": "c2915324-be48-401d-bfe9-27c7ee84d168",
+            "driver_uuid": "662381f9-0ede-457b-baff-48166d5395b0",
+            "driver_license": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.E",
+            "insurance_document": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.",
+            "vehicle_inspection_report": "https://www.google.com/url?sa=i&url=https%3",
+            "other_documents": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fw",
+            "created_at": "2024-05-31T08:13:20.000000Z",
+            "updated_at": "2024-05-31T08:24:55.000000Z"
+        }
+    }
+}
