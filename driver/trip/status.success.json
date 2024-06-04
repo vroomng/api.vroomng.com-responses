@@ -5,12 +5,12 @@
         "trip_status_code": "0",
         "trip_status_message": "request",
         "trip": {
-            "uuid": "f55bd845-45f6-4177-8c5f-1522eec24ebd",
-            "user_uuid": "123df1d5-5382-4be0-9b0c-6fd1547a308c",
+            "uuid": "b8176f40-ffef-4ec6-ab95-8f49438bef79",
+            "user_uuid": "b63c4daa-4943-4c28-b1b6-2cf0e2172ada",
             "driver_uuid": null,
             "vehicle_uuid": null,
-            "vehicle_type": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
-            "security_code": "54990",
+            "vehicle_type": "307cc2ff-d38b-4535-87d7-d9489e0a5c15",
+            "security_code": "64736",
             "from_title": "Victoria Island",
             "from_address": "4 Walter Carrington Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
             "from_lat": "6.4399847928718",
@@ -33,11 +33,17 @@
             "tips": "200",
             "payment_type": "cash",
             "bank_transfer_url": null,
+            "access_code": null,
+            "reference": null,
             "trip_type": "1",
             "is_round_trip": "0",
             "isSchedule": "0",
             "trip_status": "0",
-            "ratings": "0",
+            "rider_ratings": "5",
+            "rider_comments": null,
+            "driver_ratings": "5",
+            "driver_comments": null,
+            "rider_canceled_reason": null,
             "surge_uuid": "9dba1248-3942-4920-9302-bb0c6ae1d06c",
             "trip_fare_data": {
                 "fare": 1300,
@@ -48,10 +54,10 @@
                 "discount": "200",
                 "total": 1300
             },
-            "created_at": "2024-05-20T16:01:18.000000Z",
-            "updated_at": "2024-05-20T16:01:18.000000Z",
+            "created_at": "2024-06-04T10:53:29.000000Z",
+            "updated_at": "2024-06-04T10:53:29.000000Z",
             "user": {
-                "uuid": "123df1d5-5382-4be0-9b0c-6fd1547a308c",
+                "uuid": "b63c4daa-4943-4c28-b1b6-2cf0e2172ada",
                 "email": "wisdom.rider@vroomng.com",
                 "phone_no": "+2348100000006",
                 "balance": "0",
@@ -60,7 +66,7 @@
                 "user_type": "1",
                 "device_id": "b6ce6c03c8fcd4c3",
                 "device_type": "1",
-                "device_token": "23456",
+                "device_token": "12345",
                 "ref_by": "Vroomng",
                 "ref_code": "VROOMNG",
                 "is_active": "1",
@@ -71,10 +77,10 @@
                 "is_verified": "3",
                 "email_verified_at": null,
                 "uninstall_time": null,
-                "created_at": "2024-05-10T09:40:24.000000Z",
-                "updated_at": "2024-05-10T11:13:07.000000Z",
+                "created_at": "2024-06-03T16:58:49.000000Z",
+                "updated_at": "2024-06-04T10:44:55.000000Z",
                 "user_profile": {
-                    "user_uuid": "123df1d5-5382-4be0-9b0c-6fd1547a308c",
+                    "user_uuid": "b63c4daa-4943-4c28-b1b6-2cf0e2172ada",
                     "first_name": "Wisdom",
                     "last_name": "Rider",
                     "profile_url": "https://i.pinimg.com/736x/07/33/ba/0733ba760b29378474dea0fdbcb97107.jpg",
@@ -83,12 +89,12 @@
                     "city": "Lagos",
                     "country": "Nigeria",
                     "postal_code": "10001",
-                    "created_at": "2024-05-10T09:40:24.000000Z",
-                    "updated_at": "2024-05-10T09:40:24.000000Z"
+                    "created_at": "2024-06-03T16:58:49.000000Z",
+                    "updated_at": "2024-06-03T16:58:49.000000Z"
                 }
             }
         },
-        "driver_data": null,
+        "$driver_data": null,
         "message": "Trip details fetched successfully."
     }
 }
