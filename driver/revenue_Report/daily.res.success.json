@@ -1,0 +1,21 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "balance": "0",
+        "line_chart": [
+            {
+                "date": "2024-06-04",
+                "earnings": 0
+            }
+        ],
+        "revenue_breakdown": {
+            "total_trips": 0,
+            "total_distance": 0,
+            "total_traveling_time": 0,
+            "total_earnings": 0,
+            "cash": 0,
+            "card": 0
+        }
+    }
+}

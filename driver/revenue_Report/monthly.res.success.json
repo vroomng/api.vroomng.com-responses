@@ -1,0 +1,137 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "balance": "0",
+        "line_chart": [
+            {
+                "date": "2024-06-01",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-02",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-03",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-04",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-05",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-06",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-07",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-08",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-09",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-10",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-11",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-12",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-13",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-14",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-15",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-16",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-17",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-18",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-19",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-20",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-21",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-22",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-23",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-24",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-25",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-26",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-27",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-28",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-29",
+                "earnings": 0
+            },
+            {
+                "date": "2024-06-30",
+                "earnings": 0
+            }
+        ],
+        "revenue_breakdown": {
+            "total_trips": 0,
+            "total_distance": 0,
+            "total_traveling_time": 0,
+            "total_earnings": 0,
+            "cash": 0,
+            "card": 0
+        }
+    }
+}

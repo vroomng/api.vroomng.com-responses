@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "The route api/driver/revenue/dail could not be found."
+    }
+}
