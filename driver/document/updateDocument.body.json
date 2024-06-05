@@ -1,0 +1,8 @@
+{
+    "driver_license_front": "string",
+    "driver_license_back": "string",
+    "insurance_document_front": "string",
+    "insurance_document_back": "string",
+    "vehicle_inspection_report": "string",
+    "other_documents": "string"
+}
