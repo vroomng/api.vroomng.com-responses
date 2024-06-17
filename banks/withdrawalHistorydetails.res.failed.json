@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "No query results for model [App\\Models\\BankTransfer] d290b01a-710a-37a5-bb8c-f7accc388fdd"
+    }
+}

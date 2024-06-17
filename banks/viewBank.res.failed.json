@@ -1,0 +1,7 @@
+{
+    "status": 404,
+    "success": false,
+    "data": {
+        "message": "No query results for model [App\\Models\\BankAccount] 80f6f328-e7bb-46b1-97ee-f3e36fdbfb7"
+    }
+}

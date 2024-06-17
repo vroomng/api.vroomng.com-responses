@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "message": "Account number resolved",
+        "bank_account": {
+            "account_number": "0076659257",
+            "account_name": "JOHN WISDOM IKOI",
+            "bank_id": 1
+        }
+    }
+}

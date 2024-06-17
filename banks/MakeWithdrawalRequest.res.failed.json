@@ -2,6 +2,6 @@
     "status": 400,
     "success": false,
     "data": {
-        "message": "Recipient batch is required"
+        "message": "Please set up your pin."
     }
 }
