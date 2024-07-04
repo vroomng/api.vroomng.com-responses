@@ -1,0 +1,78 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "upcoming": [
+            {
+                "uuid": "6ce8a789-6c75-4d6d-9748-af2312fd0ec6",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2025-06-28T17:30:26.000000Z",
+                "expires": "2025-12-28T17:30:26.000000Z"
+            },
+            {
+                "uuid": "003523ca-35b4-4923-aac0-815a66b1e6e4",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2025-06-28T17:30:26.000000Z",
+                "expires": "2025-12-28T17:30:26.000000Z"
+            }
+        ],
+        "current": [
+            {
+                "uuid": "7a571160-c996-4c23-b469-b93d6c293350",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2024-06-28T17:30:26.000000Z",
+                "expires": "2026-12-28T17:30:26.000000Z"
+            },
+            {
+                "uuid": "80d97e11-02e7-4787-aa66-475f42f9a6bf",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2024-06-28T17:30:26.000000Z",
+                "expires": "2026-12-28T17:30:26.000000Z"
+            }
+        ],
+        "expired": [
+            {
+                "uuid": "c9f5bae0-a920-47f3-bfc9-9e4114f46b7b",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2024-06-28T17:30:26.000000Z",
+                "expires": "2024-06-28T17:30:26.000000Z"
+            },
+            {
+                "uuid": "fea5b38e-f8d0-4ce0-9f1d-f7c1ac6af54e",
+                "title": "City explorer",
+                "subTitle": "Embark on an adventurous journey to explore the urban wonders around you. explore locations in port harcourt to get rewards.",
+                "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+                "type": "badge",
+                "points": "10",
+                "target": "30",
+                "starts": "2024-06-28T17:30:26.000000Z",
+                "expires": "2024-06-28T17:30:26.000000Z"
+            }
+        ]
+    }
+}

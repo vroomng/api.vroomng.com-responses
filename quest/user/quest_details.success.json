@@ -1,0 +1,42 @@
+{
+    "status": 200,
+    "success": true,
+    "data": {
+        "quest": {
+            "uuid": "6ce8a789-6c75-4d6d-9748-af2312fd0ec6",
+            "title": "City explorer",
+            "subTitle": "Embark on an adventurous journey.",
+            "icon": "https://th.bing.com/th/id/R.a3086056d6d1eaa5c192cb8eee39de1e?rik=Uhtxg30Pm7%2bHeg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniE%2fEM4%2fniEEM4xiA.jpeg&ehk=pzkZT7B%2bV9AyHoeSV12I7ByV%2fa7ubvE70qrf9dgzfgc%3d&risl=&pid=ImgRaw&r=0",
+            "type": "badge",
+            "points": 10,
+            "target": 30,
+            "starts": "2025-06-28T17:30:26.000000Z",
+            "expires": "2025-12-28T17:30:26.000000Z",
+            "details": {
+                "description": "Embark on an adventurous journey to explore the urban wonders around you. explore locations in port harcourt to get rewards.",
+                "reward_badges": false,
+                "reward_point": true,
+                "required_actions": [
+                    {
+                        "uuid": "561aaed1-f231-40a5-91a0-568902d10fcb",
+                        "quest_uuid": "6ce8a789-6c75-4d6d-9748-af2312fd0ec6",
+                        "required_action": "Visit bana island",
+                        "created_at": "2024-07-03T19:49:07.000000Z",
+                        "updated_at": "2024-07-03T19:49:07.000000Z"
+                    },
+                    {
+                        "uuid": "1995c4a2-2da1-4885-bc50-4f38598ad7f3",
+                        "quest_uuid": "6ce8a789-6c75-4d6d-9748-af2312fd0ec6",
+                        "required_action": "Visit main land",
+                        "created_at": "2024-07-03T19:49:29.000000Z",
+                        "updated_at": "2024-07-03T19:49:29.000000Z"
+                    }
+                ]
+            }
+        },
+        "complete_quest": {
+            "target_point": "30",
+            "current_point": 0
+        }
+    }
+}
